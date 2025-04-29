@@ -16,7 +16,7 @@ This is a simple **Traffic Light Simulation** built using **HTML**, **CSS**, and
 
 ## 📸 Preview
 
-![Screenshot](screenshot.png) <!-- Optional: Add a real screenshot or remove this line -->
+ https://chetansajjan.github.io/traffic-light-project/
 
 ## 🚀 Features
 
